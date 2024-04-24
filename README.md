@@ -58,12 +58,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 print(f"Received {data!r}")
 ```
-
 ## OUTPUT:
 # SERVER OUPUT:
-![server  ouput](https://github.com/Jayakrishnan22003251/Echoserver/assets/120232371/07c565aa-aa58-42b2-955b-4924f2ec7bb7)
+![Screenshot 2024-04-24 112220](https://github.com/Vinothini1711/Echoserver/assets/144300204/68bf7c88-8b52-49e1-9a0a-850666b814cb)
 # CLIENT OUTPUT:
-![client output](https://github.com/Jayakrishnan22003251/Echoserver/assets/120232371/573f26b2-b5d9-414e-9a03-836c8f627306)
-
+![Screenshot 2024-04-24 112200](https://github.com/Vinothini1711/Echoserver/assets/144300204/fcd4aaf5-8334-4a53-9d6b-b5450a886635)
 ## RESULT:
 The program is executed successfully
