@@ -60,8 +60,9 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 # SERVER OUPUT:
-![Screenshot 2024-04-24 112220](https://github.com/Vinothini1711/Echoserver/assets/144300204/68bf7c88-8b52-49e1-9a0a-850666b814cb)
+![image](https://github.com/Harshinisrini1910/Echoserver/assets/161415847/942cd275-64b9-4b40-8f9d-b83c913de2ce)
 # CLIENT OUTPUT:
-![Screenshot 2024-04-24 112200](https://github.com/Vinothini1711/Echoserver/assets/144300204/fcd4aaf5-8334-4a53-9d6b-b5450a886635)
+![image](https://github.com/Harshinisrini1910/Echoserver/assets/161415847/449a8757-0bd0-4546-9f87-a6fb71cc635d)
 ## RESULT:
 The program is executed successfully
+
